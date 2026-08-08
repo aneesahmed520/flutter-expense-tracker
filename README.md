@@ -252,23 +252,27 @@ The project should contain no compilation errors.
 
 ## 📸 Screenshots
 
-Screenshots will be added here to demonstrate the main application screens.
+### 🚀 Splash Screen
 
-### Home Screen
+![Splash Screen](screenshots/splash.png)
 
-> Screenshot coming soon.
+### 🏠 Home Screen
 
-### Add Transaction
+![Home Screeen](screenshots/home.png)
 
-> Screenshot coming soon.
+### ➕ Add Transaction
 
-### Edit Transaction
+![Add Transaction](screenshots/add-transaction.png)
 
-> Screenshot coming soon.
+### ✏️ Edit Transaction
 
-### Search
+![Edit Transaction](screenshots/edit-transaction.png)
 
-> Screenshot coming soon.
+### 🔍 Search
+
+![Search](screenshots/search.png)
+
+
 
 ---
 
